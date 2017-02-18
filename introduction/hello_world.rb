@@ -1,2 +1,2 @@
 puts 'Hola Mundo'
-print 'Hello Wordl'
+print 'Hello World'
